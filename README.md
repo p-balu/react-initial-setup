@@ -9,7 +9,7 @@
  #### After npm install or yarn we need to configure webpack.config.js
  
  ### After configuring webpack 
- create `.babelrc` and add babel presets and plugins i.e. the piece of code that is given below
+ create `.babelrc` file and add babel presets and plugins to the file i.e. the piece of code that is given below
  
  {
   "presets": ["@babel/preset-react"],
